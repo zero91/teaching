@@ -1,0 +1,1 @@
+Each course a directory.
