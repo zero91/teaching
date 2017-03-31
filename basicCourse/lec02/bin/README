@@ -1,1 +1,5 @@
 biclass bins for sougou_news data using sklearn
+run steps:
+    #change the DATADIR before running the script
+    step1: sh run_data_preprocess.sh 
+    step2: run_lr_biclass_with_sklearn.sh
